@@ -1,0 +1,20 @@
+26/08/2022 14:24:30 - O Usuário 1 fez login.
+26/08/2022 14:24:30 - O Usuário 1 abriu o formulário Produto pelo Ícone.
+26/08/2022 14:24:31 - O Usuário 1 selecionou o Produto 1.
+26/08/2022 14:24:34 - O Usuário 1 abriu o formulário Pedido pelo Ícone.
+26/08/2022 14:24:36 - O Usuário 1 abriu o formulário Ingrediente pelo Ícone.
+26/08/2022 14:24:38 - O Usuário 1 abriu o formulário Ingrediente do Produto pelo Ícone.
+26/08/2022 14:24:40 - O Usuário 1 abriu o formulário Usuario pelo Ícone.
+26/08/2022 14:24:41 - O Usuário 1 selecionou o Usuário 1.
+26/08/2022 14:24:43 - O Usuário 1 abriu o formulário Pedido pelo Ícone.
+26/08/2022 14:24:44 - O Usuário 1 deslogou.
+29/08/2022 23:38:11 - O Usuário 1 fez login.
+29/08/2022 23:38:11 - O Usuário 1 abriu o formulário Pessoa pelo Ícone.
+29/08/2022 23:38:17 - O Usuário 1 abriu o formulário Ingrediente do Produto pelo Ícone.
+29/08/2022 23:38:20 - O Usuário 1 deslogou.
+29/08/2022 23:41:23 - O Usuário 1 fez login.
+29/08/2022 23:41:26 - O Usuário 1 deslogou.
+29/08/2022 23:42:12 - O Usuário 1 fez login.
+29/08/2022 23:42:14 - O Usuário 1 deslogou.
+29/08/2022 23:46:02 - O Usuário 1 fez login.
+29/08/2022 23:50:58 - O Usuário 1 fez login.
